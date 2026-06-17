@@ -10,3 +10,5 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) to u
 Before getting our hands dirty, make sure to have the next requirements:
 - Install a Python version above 13.3.0, and the following libraries: Numpy, Seaborn, Pandas, Matplotlib, Pytorch and TensorFlow
 - Basic knowledge of Data Structures such as Arrays or Strings and Natural Language Processing.
+
+**Note**: If you are not familiar with basic programming concepts or the data structures covered in this project, please visit the `Foundations` folder and review the notebooks provided. They will help you build a solid understanding of the fundamental concepts before moving on to the more advanced topics.
