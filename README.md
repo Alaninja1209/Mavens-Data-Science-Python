@@ -1,2 +1,12 @@
-# Mavens-Data-Science-Python
-This reposity contains the project done from the Python for Data Science path, besides some content of basic foundations of common tools, data types and best programming practices that data professionals use in their daily activities
+# Mavens Data Science Python Path
+
+## 🎯 Motivation
+As part of my transition into a Data Science career, I have been exploring how data-driven solutions can create value across different industries, particularly in sectors such as Finance and Marketing. This project is an opportunity to apply Data Science techniques to a real-world banking dataset and gain hands-on experience with customer analytics.
+
+## 🏦 Project description
+The objective of this project is to perform Exploratory Data Analysis (EDA) to uncover patterns and insights within customer data, and then develop a Machine Learning model capable of segmenting bank customers and recommending potential products based on their profiles and behaviors. 
+
+## 🚀 Getting started, requirements before starting
+Before getting our hands dirty, make sure to have the next requirements:
+- Install a Python version above 13.3.0, and the following libraries: Numpy, Seaborn, Pandas, Matplotlib, Pytorch and TensorFlow
+- Basic knowledge of Data Structures such as Arrays or Strings and Natural Language Processing.
